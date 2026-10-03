@@ -50,7 +50,11 @@ Power-Up: Kar kütlesi, 10 canın üzerine çıktığında hem can seviyemiz 5 a
 
 Emeği Geçenler
 Ümmügülsüm Eslem Yağmur => Game Designer, 2D Artist (Background & Character Artist)
+
 Şevval Demir => Game Designer, 2D Artist (Card Artist)
+
 Kılıçaslan Yavuzaslan => Game Designer, Lead Developer, UI Designer
+
 Nazım Güzel => Game Designer, UI Designer, Developer
+
 Murat Can Sarıyıldız => Game Designer, Sound Designer, UI Designer
