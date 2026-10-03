@@ -49,6 +49,7 @@ Stratejik Deste Yönetimi: Saldırı ve Savunma (İyileşme) arasındaki hassas 
 Power-Up: Kar kütlesi, 10 canın üzerine çıktığında hem can seviyemiz 5 adet kadar daha arttırma şansı kazanırız, hem de aynı zamanda büyücüye normal hasarın 2 katı hasar veririz.
 
 Emeği Geçenler
+
 Ümmügülsüm Eslem Yağmur => Game Designer, 2D Artist (Background & Character Artist)
 
 Şevval Demir => Game Designer, 2D Artist (Card Artist)
